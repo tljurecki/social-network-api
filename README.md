@@ -1,6 +1,6 @@
 # Social Network API
 
-## Descriptiomn
+## Description
 A social media website where users can share their thoughts, react to other people's thoughts and add friends.
 
 ## User Story
